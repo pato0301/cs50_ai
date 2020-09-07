@@ -1,0 +1,6 @@
+1.buscar vecinos
+2.while no se encuentre el target
+3.almacenar en un array las convinaciones
+4.sacar esa convinacion y buscar el actor que conecciones tiene
+que no sea con algunos de los que ya paso
+5. si no se puede avanzar break y devolver None
